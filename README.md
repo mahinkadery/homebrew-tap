@@ -5,11 +5,8 @@ Official [Homebrew](https://brew.sh) tap for [FlowShelf](https://flowshelf.app) 
 ## Install
 
 ```sh
-brew tap mahinkadery/tap
-brew install --cask flowshelf
+brew install --cask mahinkadery/tap/flowshelf
 ```
-
-Or as a one-liner: `brew install --cask mahinkadery/tap/flowshelf`
 
 ## Upgrade
 
