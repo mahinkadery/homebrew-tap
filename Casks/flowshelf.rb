@@ -1,6 +1,6 @@
 cask "flowshelf" do
-  version "1.6.2"
-  sha256 "2d852e9c34abdd1be0e5e5ad29c75e8fdb84be5b94baeb20c58220c5f959251f"
+  version "1.7.0"
+  sha256 "f3cbe581fe13cc115717e30b3827ae7e8c46c742539486a86bff80283ab554fd"
 
   url "https://github.com/mahinkadery/FlowShelf/releases/download/v#{version}/FlowShelf-#{version}.dmg"
   name "FlowShelf"
